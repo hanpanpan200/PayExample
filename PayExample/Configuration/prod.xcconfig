@@ -1,0 +1,16 @@
+//
+//  prod.xcconfig
+//  PayExample
+//
+//  Created by Panpan Han  on 2019/2/28.
+//  Copyright © 2019 Panpan Han . All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PE_BUNDLE_ID = com.payexample.prod
+PE_BUNDLE_NAME = PayExample
+PE_BUILD_VERSION = 3
+PE_SHORT_BUILD_VERSION = 3.0
+
